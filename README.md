@@ -16,7 +16,7 @@
     "Religion": "Jew ✡️",
     "Country": "Brazil",
     "Role": "Software Engineer",
-    "Colour": "white",
+    "Colour": "White",
     "Hobbies": {
       "Football": {
         "Position": "Goalkeeper 🧤",
