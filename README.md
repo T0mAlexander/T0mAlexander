@@ -111,7 +111,6 @@
 <div style="display: flex; align-items: center; column-gap: 4px">
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674279967/Github/Profile%20Markdown/nextjs_dgvroz.svg" title="Next.js" />
   <img height="35" width="35" src="https://res.cloudinary.com/tommello/image/upload/v1674281223/Github/Profile%20Markdown/threejs_tyjtmz.svg" title="Three.js"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
 </div>
 
