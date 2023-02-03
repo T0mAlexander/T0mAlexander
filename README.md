@@ -106,7 +106,7 @@
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362980/Github/Profile%20Markdown/stackoverflow_qtii0f.svg" title="Stackoverflow" />
 </div>
 
-<h2 align="left">🧑🏻‍💻 Current learnings</h2>
+<h2 align="left">🎯 Current learnings</h2>
 
 <div style="display: flex; align-items: center; column-gap: 4px">
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674279967/Github/Profile%20Markdown/nextjs_dgvroz.svg" title="Next.js" />
