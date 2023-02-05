@@ -18,11 +18,6 @@
     "Role": "Software Engineer",
     "Colour": "White",
     "Hobbies": {
-      "Football": {
-        "Position": "Goalkeeper 🧤",
-        "FavouritePlayer": "Manuel Neuer 🇩🇪",
-        "FavouriteTeam": "Chelsea Football Club 🇬🇧"
-      },
       "Cyclism": true,
       "Motorsports": {
         "FormulaOne": {
@@ -53,10 +48,6 @@
             "Author": "Kari Hotakainen"
           }
         ]
-      },
-      "FavouriteFilm": "Top Gun: Maverick",
-      "FavouriteSerie": "Atypical"
-    }
   }
 }
 ```
