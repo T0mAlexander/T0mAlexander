@@ -17,11 +17,9 @@
     "Role": "Software Engineer",
     "Colour": "White",
     "Hobbies": {
-      "Cyclism": true,
       "Motorsports": {
         "FormulaOne": {
-          "FavouriteTeam": "Red Bull Racing",
-          "FavouriteDriver": "Ayrton Senna 🇧🇷"
+          "FavouriteTeam": "Red Bull Racing"
         }
       },
       "Books": {
