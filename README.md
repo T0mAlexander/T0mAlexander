@@ -7,8 +7,7 @@
 "1.0_1-ab0utme.json"
 
 {
-  "Tom": {
-    "Id": 16,
+  "Tom Alexander": {
     "Height": "182 cm",
     "EyeColour": "lightBrown",
     "Age": 24,
@@ -26,28 +25,22 @@
         }
       },
       "Books": {
-        "CurrentBook": {
-          "Title": "Aussie Grit: My Formula One Journey",
-          "Author": "Mark Webber"
-        },
         "FavouriteBook": {
           "Title": "Elon Musk",
           "Author": "Ashley Vancee"
         },
-        "NextBooks": [
+        "CurrentBook": {
+          "Title": "Aussie Grit: My Formula One Journey",
+          "Author": "Mark Webber"
+        },
+        "NextBook": [
           {
             "Title": "Permanent Record",
             "Author": "Edward Snowden"
-          },
-          {
-            "Title": "How To Build a Car",
-            "Author": "Adrian Newey"
-          },
-          {
-            "Title": "The Unknown Kimi Räikkönen",
-            "Author": "Kari Hotakainen"
           }
         ]
+      }
+    }
   }
 }
 ```
