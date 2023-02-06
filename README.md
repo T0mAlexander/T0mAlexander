@@ -65,9 +65,7 @@
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_native_uozofa.svg" title="React Native"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/phosphor-icons/phosphor-react/HEAD/meta/phosphor-mark-tight-yellow.png" title="Phosphor Icons">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit"/>
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674361411/Github/Profile%20Markdown/glidejs_afviof.ico" title="Glide.js">
 </div>
 
 <h2 align="left">🔧 Tools</h2>
