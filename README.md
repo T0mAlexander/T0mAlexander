@@ -66,6 +66,7 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit"/>
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362823/Github/Profile%20Markdown/github_kqnucs.svg" title="GitHub" />
 </div>
 
 <h2 align="left">🔧 Tools</h2>
@@ -81,7 +82,6 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
   <img height="40" width="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="Postman" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674447272/Github/Profile%20Markdown/openai_f3w9dh.png" title="ChatGPT" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362823/Github/Profile%20Markdown/github_kqnucs.svg" title="GitHub" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362980/Github/Profile%20Markdown/npm_tjgoev.svg" title="Node Package Manager" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362980/Github/Profile%20Markdown/stackoverflow_qtii0f.svg" title="Stackoverflow" />
 </div>
