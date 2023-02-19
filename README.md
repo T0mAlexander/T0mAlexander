@@ -1,5 +1,3 @@
-<img src="https://res.cloudinary.com/tommello/image/upload/v1674344576/Github/Profile%20Markdown/github-header-image_1_nmgdw2.png" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&size=24&color=FFFFFF&vCenter=true&width=900&lines=HIYA+MATE%2C+MY+NAME+IS+TOM+ALEXANDER+.+.+.;WELCOME+TO+MY+GITHUB+PROFILE+:D;)](https://git.io/typing-svg)
 
 ```json
