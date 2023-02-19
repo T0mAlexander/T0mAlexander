@@ -23,21 +23,17 @@
         }
       },
       "Books": {
-        "FavouriteBook": {
-          "Title": "Elon Musk",
-          "Author": "Ashley Vancee"
-        },
-        "CurrentBook": {
+        "CurrentReading": {
           "Title": "Aussie Grit: My Formula One Journey",
           "Author": "Mark Webber"
         },
-        "NextBook": [
-          {
-            "Title": "Permanent Record",
-            "Author": "Edward Snowden"
-          }
-        ]
-      }
+        "NextBook": {
+          "Title": "Permanent Record",
+          "Author": "Edward Snowden"
+        }
+      },
+      "FavouriteSerie": "Mr. Robot",
+      "CurrentSerie": "Star Wars: The Bad Batch"
     }
   }
 }
