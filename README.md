@@ -47,7 +47,7 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<div style="display: flex; margin-top: 10px; column-gap: 6px;">
+<div style="display: flex; margin-top: 10px; column-gap: 6px; width: 100%">
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
@@ -57,10 +57,13 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_osmnfo.svg" title="React"/>
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_native_uozofa.svg" title="React Native"/>
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674279967/Github/Profile%20Markdown/nextjs_dgvroz.svg" title="Next.js" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362823/Github/Profile%20Markdown/github_kqnucs.svg" title="GitHub" />
+</div>
 </div>
 
 <h2 align="left">🔧 Tools</h2>
@@ -80,11 +83,15 @@
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362980/Github/Profile%20Markdown/stackoverflow_qtii0f.svg" title="Stackoverflow" />
 </div>
 
-<h2 align="left">🎯 Current learnings</h2>
+<h2 align="left">🎯 Current learnings and interests</h2>
 
 <div style="display: flex; align-items: center; column-gap: 4px">
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674279967/Github/Profile%20Markdown/nextjs_dgvroz.svg" title="Next.js" />
-  <img height="35" width="35" src="https://res.cloudinary.com/tommello/image/upload/v1674281223/Github/Profile%20Markdown/threejs_tyjtmz.svg" title="Three.js"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="NGINX" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
 </div>
 
