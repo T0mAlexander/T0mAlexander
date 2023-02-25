@@ -90,7 +90,12 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="NGINX" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" title="Tomcat" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" />
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1677303106/Github/Profile%20Markdown/envoy_voakye.ico" title="Envoy" />
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1677303240/Github/Profile%20Markdown/Istio_h8uiv2.svg" title="Istio" />
+  <img height="45" width="45" src="https://res.cloudinary.com/tommello/image/upload/v1677303670/Github/Profile%20Markdown/ansible_tbfxie.svg" title="Ansible" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
 </div>
 
