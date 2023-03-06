@@ -107,7 +107,4 @@
   <a href="https://linkedin.com/in/t0m-alexander" target="_blank">
     <img height="30" style="border-radius: 4px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/wintonmello5?si=23cbc3e113574030" target="_blank">
-    <img height="30" style="border-radius: 4px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
 </footer>
