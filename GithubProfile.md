@@ -43,7 +43,6 @@
     <img height="165px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&layout=compact&theme=merko" />
   </a>
 </div>
-<img height="30" width="142" style="border-radius: 4px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen" />
 
 <h2 align="left">💻 Tech Stack</h2>
 
@@ -100,11 +99,12 @@
 </div>
 
 <h2 align="left">🌐 Socials</h2>
-<footer style="display: inline-flex; width: 100%; margin-top: 2rem; column-gap: 8px">
+<footer style="display: flex; width: 100%; justify-content: center; align-items: center;">
   <a href="mailto:t0malexander@protonmail.com">
-    <img height="30" style="border-radius: 4px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+    <img height="30" style="border-radius: 6px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/t0m-alexander" target="_blank">
-    <img height="30" style="border-radius: 4px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="30" style="border-radius: 6px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Profile+visitors" />
 </footer>
