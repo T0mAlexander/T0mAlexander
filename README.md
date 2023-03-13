@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&size=24&color=FFFFFF&vCenter=true&width=900&lines=HIYA+MATE%2C+MY+NAME+IS+TOM+ALEXANDER+.+.+.;WELCOME+TO+MY+GITHUB+PROFILE+:D;)](https://git.io/typing-svg)
 
+![](https://hit.yhype.me/github/profile?user_id=84048957)
+
 ```json
 
 "aboutMe.json"
@@ -108,5 +110,3 @@
   </a>
   <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Profile+visitors" />
 </footer>
-
-![](https://hit.yhype.me/github/profile?user_id=84048957)
