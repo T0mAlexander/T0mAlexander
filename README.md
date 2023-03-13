@@ -2,7 +2,7 @@
 
 ```json
 
-"1.0_1-ab0utme.json"
+"aboutMe.json"
 
 {
   "Tom Alexander": {
