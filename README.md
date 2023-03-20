@@ -10,7 +10,7 @@
     "EyeColour": "lightBrown",
     "Age": 24,
     "Girlfriend": false,
-    "Religion": "Jew ✡️",
+    "Religion": "Judaism",
     "Country": "Brazil",
     "Role": "Software Engineer",
     "Colour": "White",
