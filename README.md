@@ -50,7 +50,6 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_osmnfo.svg" title="React"/>
@@ -81,9 +80,10 @@
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362980/Github/Profile%20Markdown/stackoverflow_qtii0f.svg" title="Stackoverflow" />
 </div>
 
-<h2 align="left">🎯 Current learnings and interests</h2>
+<h2 align="left">🎯 Current learnings</h2>
 
 <div style="display: flex; align-items: center;">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680288855/Github/Profile%20Markdown/docker_fpe43h.svg" title="Docker" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1680288069/Github/Profile%20Markdown/nginx_yur3g1.svg" title="NGINX" />
   <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" />
@@ -96,7 +96,6 @@
   <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680279258/Github/Profile%20Markdown/prometheus_gpt0g4.svg" title="Prometheus" />
   <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680287406/Github/Profile%20Markdown/jaeger_hvldas.svg" title="Jaeger" />
   <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680287596/Github/Profile%20Markdown/amazon-web-services_zf5zyp.svg" title="Amazon Web Services"/>
-  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680287678/Github/Profile%20Markdown/google-cloud-platform_y9slbh.svg" title="Google Cloud Platform"/>
 
 <h2 align="left">🌐 Socials</h2>
 <footer style="display: flex; width: 100%; justify-content: center; align-items: center;">
