@@ -31,7 +31,7 @@
         }
       },
       "FavouriteSerie": "Mr. Robot",
-      "CurrentSerie": "Star Wars: The Bad Batch"
+      "CurrentSerie": "Star Wars: The Mandalorian"
     }
   }
 }
