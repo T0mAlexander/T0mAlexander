@@ -58,7 +58,7 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" />
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1681248042/vitest_tlww7v.png" title="Vitest" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362823/Github/Profile%20Markdown/github_kqnucs.svg" title="GitHub" />
 </div>
 </div>
