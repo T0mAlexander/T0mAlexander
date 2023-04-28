@@ -59,7 +59,7 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit"/>
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1681248042/vitest_tlww7v.png" title="Vitest" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362823/Github/Profile%20Markdown/github_kqnucs.svg" title="GitHub" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
 </div>
 </div>
 
@@ -83,7 +83,6 @@
 <h2 align="left">🎯 Current learnings</h2>
 
 <div style="display: flex; align-items: center;">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680288855/Github/Profile%20Markdown/docker_fpe43h.svg" title="Docker" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1680288069/Github/Profile%20Markdown/nginx_yur3g1.svg" title="NGINX" />
   <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" />
