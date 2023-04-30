@@ -102,4 +102,3 @@
   </a>
   <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Profile+visitors" />
 </footer>
-](https://res.cloudinary.com/tommello/image/upload/v1682827782/nextjs_hhr3ym.svg)](https://res.cloudinary.com/tommello/image/upload/v1682827782/nextjs_hhr3ym.svg)
