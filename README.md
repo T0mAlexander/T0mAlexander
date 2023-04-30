@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&size=24&color=FFFFFF&vCenter=true&width=900&lines=HIYA+MATE%2C+MY+NAME+IS+TOM+ALEXANDER+.+.+.;WELCOME+TO+MY+GITHUB+PROFILE+:D;)](https://git.io/typing-svg)
+[[[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&size=24&color=FFFFFF&vCenter=true&width=900&lines=HIYA+MATE%2C+MY+NAME+IS+TOM+ALEXANDER+.+.+.;WELCOME+TO+MY+GITHUB+PROFILE+:D;)](https://git.io/typing-svg)
 
 ```json
 
@@ -47,19 +47,18 @@
 <h2 align="left">💻 Tech Stack</h2>
 
 <div style="display: flex; margin-top: 10px; column-gap: 6px; width: 100%">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_osmnfo.svg" title="React"/>
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_native_uozofa.svg" title="React Native"/>
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674279967/Github/Profile%20Markdown/nextjs_dgvroz.svg" title="Next.js" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit"/>
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1681248042/vitest_tlww7v.png" title="Vitest" />
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1682826503/Github/Profile%20Markdown/styled_components_nrblje.ico" title="Styled Components"/>
+  <img height="45" width="45" src="https://res.cloudinary.com/tommello/image/upload/v1682827782/nextjs_hhr3ym.svg" title="Next.js" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
+  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680288855/Github/Profile%20Markdown/docker_fpe43h.svg" title="Docker" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1682825523/Github/Profile%20Markdown/prisma-orm_lxicqu.svg" title="Prisma ORM" />
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1681248042/vitest_tlww7v.png" title="Vitest" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1682827644/bubble_e0ceuh.svg" title="Bubble"/>
 </div>
 </div>
 
@@ -83,7 +82,6 @@
 <h2 align="left">🎯 Current learnings</h2>
 
 <div style="display: flex; align-items: center;">
-  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680288855/Github/Profile%20Markdown/docker_fpe43h.svg" title="Docker" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1680288069/Github/Profile%20Markdown/nginx_yur3g1.svg" title="NGINX" />
   <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1677303240/Github/Profile%20Markdown/Istio_h8uiv2.svg" title="Istio" />
@@ -106,3 +104,4 @@
   </a>
   <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Profile+visitors" />
 </footer>
+](https://res.cloudinary.com/tommello/image/upload/v1682827782/nextjs_hhr3ym.svg)](https://res.cloudinary.com/tommello/image/upload/v1682827782/nextjs_hhr3ym.svg)
