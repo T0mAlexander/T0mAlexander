@@ -29,7 +29,7 @@
         }
       },
       "FavouriteSerie": "Mr. Robot",
-      "CurrentSerie": "Star Wars: The Mandalorian"
+      "FavouriteFilm": "Top Gun: Maverick"
     }
   }
 }
