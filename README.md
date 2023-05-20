@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/t0m-alexander" target="_blank">
     <img height="180" width="450" src="https://streak-stats.demolab.com?user=T0mAlexander&theme=onedark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2C323232%2C15151525&border=FFFFFF&ring=FFE4AD&fire=EB7F3A&sideLabels=A6FF7A&stroke=EBEBEB&currStreakNum=EB7F3A&sideNums=89EB7E&dates=FFFFFF&currStreakLabel=EBAB3D" />
     <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=T0mAlexander&count_private=true&show_icons=true&theme=dark&locale=pt-BR" />
-  </a>
+    </a>
 </div>
 
 <h2 align="left">💻 Tech Stack</h2>
