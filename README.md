@@ -79,7 +79,7 @@
 <h2 align="left">🎯 Current learnings</h2>
 
 <div style="display: flex; align-items: center;">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="Nest.js" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Golang" />     
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1680288069/Github/Profile%20Markdown/nginx_yur3g1.svg" title="NGINX" />
   <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1677303240/Github/Profile%20Markdown/Istio_h8uiv2.svg" title="Istio" />
