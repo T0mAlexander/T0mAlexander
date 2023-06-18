@@ -50,12 +50,9 @@
   <img height="45" width="45" src="https://res.cloudinary.com/tommello/image/upload/v1682827782/nextjs_hhr3ym.svg" title="Next.js" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
-  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680288855/Github/Profile%20Markdown/docker_fpe43h.svg" title="Docker" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1682825523/Github/Profile%20Markdown/prisma-orm_lxicqu.svg" title="Prisma ORM" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1681248042/vitest_tlww7v.png" title="Vitest" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1682827644/bubble_e0ceuh.svg" title="Bubble"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Golang" />
+  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680288855/Github/Profile%20Markdown/docker_fpe43h.svg" title="Docker" />
 </div>
 </div>
 
@@ -70,16 +67,11 @@
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674360927/Github/Profile%20Markdown/headphone_vt8wbj.png" title="My headphone Baseus H1 Bowie" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674359923/Github/Profile%20Markdown/spotify_dmezwk.svg" title="Spotify on" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
-  <img height="40" width="40" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="Postman" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674447272/Github/Profile%20Markdown/openai_f3w9dh.png" title="ChatGPT" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362980/Github/Profile%20Markdown/npm_tjgoev.svg" title="Node Package Manager" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674362980/Github/Profile%20Markdown/stackoverflow_qtii0f.svg" title="Stackoverflow" />
 </div>
 
 <h2 align="left">🎯 Current learnings</h2>
 
 <div style="display: flex; align-items: center;">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Golang" />     
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1680288069/Github/Profile%20Markdown/nginx_yur3g1.svg" title="NGINX" />
   <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1677303240/Github/Profile%20Markdown/Istio_h8uiv2.svg" title="Istio" />
