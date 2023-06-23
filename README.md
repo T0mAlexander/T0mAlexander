@@ -13,26 +13,23 @@
     "Role": "Software Engineer",
     "Colour": "White",
     "Hobbies": {
-      "Motorsports": {
-        "FormulaOne": {
-          "FavouriteTeam": "Red Bull Racing"
-        }
+      "FormulaOne": {
+        "FavouriteTeam": "Red Bull Racing"
       },
       "Books": {
         "CurrentReading": {
           "Title": "Aussie Grit: My Formula One Journey",
           "Author": "Mark Webber"
-        },
-        "NextBook": {
-          "Title": "Permanent Record",
-          "Author": "Edward Snowden"
         }
       },
-      "FavouriteSerie": "Mr. Robot",
-      "FavouriteFilm": "Top Gun: Maverick"
+      "Series": {
+        "FavouriteSerie": "Mr. Robot",
+        "CurrentSerie": "The Boys"
+      }
     }
   }
 }
+
 ```
 
 <p  align="center" style="width: 1000px">
