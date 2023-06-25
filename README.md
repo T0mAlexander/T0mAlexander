@@ -78,12 +78,12 @@
   
 ## 🌐 Contato
 
-<footer style="display: flex; column-gap: 5px">
+<footer align="left">
   <a href="mailto:t0malexander@protonmail.com">
     <img height="30" style="border-radius: 6px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/t0m-alexander" target="_blank">
     <img height="30" style="border-radius: 6px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Profile+visitors" />
+  <!-- <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Profile+visitors" /> -->
 </footer>
