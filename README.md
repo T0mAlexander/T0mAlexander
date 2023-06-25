@@ -72,7 +72,7 @@
   [![Skillset](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
   <img height="49" width="49" style="margin: 0 5px"  src="https://res.cloudinary.com/tommello/image/upload/v1687709304/Github/Profile%20Markdown/iconizer-terraform-original_vl0ivu.svg" title="Terraform" />
   [![Skillset](https://skillicons.dev/icons?i=jenkins,prometheus)](https://skillicons.dev)
-  <img height="49" width="49" style="margin: 0 5px;" src="https://res.cloudinary.com/tommello/image/upload/v1687734164/Github/Profile%20Markdown/Jaeger-Tracing_hkyypx.svg" title="Jaeger" />
+  <img height="49" width="49" style="margin: 0 5px;" src="https://res.cloudinary.com/tommello/image/upload/v1687734571/Github/Profile%20Markdown/Jaeger-Tracing_vxm0ug.svg" title="Jaeger" />
   [![Skillset](https://skillicons.dev/icons?i=kafka,aws)](https://skillicons.dev)
 </div>
   
