@@ -1,5 +1,4 @@
 ```json
-
 "aboutMe.json"
 
 {
@@ -17,9 +16,13 @@
         "FavouriteTeam": "Red Bull Racing"
       },
       "Books": {
-        "CurrentReading": {
+        "CurrentBook": {
           "Title": "Aussie Grit: My Formula One Journey",
           "Author": "Mark Webber"
+        },
+        "NextBook": {
+          "Title": "Permanent Record",
+          "Author": "Edward Snowden"
         }
       },
       "Series": {
@@ -32,28 +35,21 @@
 
 ```
 
-<p  align="center" style="width: 1000px">
-  <a href="https://linkedin.com/in/t0m-alexander" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=T0mAlexander&theme=onedark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&background=45%2C323232%2C15151525&border=FFFFFF&ring=FFE4AD&fire=EB7F3A&sideLabels=A6FF7A&stroke=EBEBEB&currStreakNum=EB7F3A&sideNums=89EB7E&dates=FFFFFF&currStreakLabel=EBAB3D" />
-  </a>
-</p>
+<div style="display: inline-flex; justify-content: space-between; column-gap: 20px; width: 100%">
 
-<h2 align="left">💻 Tech Stack</h2>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&layout=donut&theme=apprentice&locale=pt-BR&langs_count=4)
 
-<div style="display: flex; margin-top: 10px; column-gap: 6px; width: 100%">
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_osmnfo.svg" title="React"/>
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674280418/Github/Profile%20Markdown/react_native_uozofa.svg" title="React Native"/>
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1682826503/Github/Profile%20Markdown/styled_components_nrblje.ico" title="Styled Components"/>
-  <img height="45" width="45" src="https://res.cloudinary.com/tommello/image/upload/v1682827782/nextjs_hhr3ym.svg" title="Next.js" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Golang" />
-  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680288855/Github/Profile%20Markdown/docker_fpe43h.svg" title="Docker" />
-</div>
+  ![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T0mAlexander&show_icons=true&theme=apprentice&custom_title=Estatísticas&ring_color=00B4E0&line_height=28&card_width=200)
+  
 </div>
 
-<h2 align="left">🔧 Tools</h2>
+## 🧠 Habilidades e ferramentas
+
+  [![Skillset](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+  <img height="49" width="48" style="margin: 0 5px" src="https://res.cloudinary.com/tommello/image/upload/v1687705710/Github/Profile%20Markdown/iconizer-react_native_uozofa_bx0pjn.svg" title="React Native"/>
+  [![Skillset](https://skillicons.dev/icons?i=styledcomponents,nextjs,nodejs,ts,postgresql,prisma,golang,docker,nginx,linux,vscode)](https://skillicons.dev)
+
+<!-- <h2 align="left">🔧 Tools</h2>
 <div style="display: flex; column-gap: 6px">
   <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1674358219/Github/Profile%20Markdown/brain_dc0yqn.svg" title="My brain" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674358139/Github/Profile%20Markdown/hand_j6bogj.svg" title="My hands (of course)" />
@@ -64,25 +60,26 @@
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674360927/Github/Profile%20Markdown/headphone_vt8wbj.png" title="My headphone Baseus H1 Bowie" />
   <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1674359923/Github/Profile%20Markdown/spotify_dmezwk.svg" title="Spotify on" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
+</div> -->
+
+## 🎯 Aprendizados e interesses
+
+<div>
+
+  [![Skillset](https://skillicons.dev/icons?i=figma,nest)](https://skillicons.dev)
+  <img height="48" width="48" style="padding: 0 5px" src="https://res.cloudinary.com/tommello/image/upload/v1687706787/Github/Profile%20Markdown/iconizer-argo-icon-color_vcyu6o.svg" title="ArgoCD" />
+  <img height="49" width="49" src="https://res.cloudinary.com/tommello/image/upload/v1687708630/Github/Profile%20Markdown/istio_qewlid.svg" title="Istio" />
+  <img height="51" width="50" style="padding: 0 5px" src="https://res.cloudinary.com/tommello/image/upload/v1687708940/Github/Profile%20Markdown/iconizer-hashicorp-vault_mohwti_lysrlm.svg" title="Vault" />
+  [![Skillset](https://skillicons.dev/icons?i=kubernetes,ansible)](https://skillicons.dev)
+  <img height="49" width="49" style="margin: 0 5px"  src="https://res.cloudinary.com/tommello/image/upload/v1687709304/Github/Profile%20Markdown/iconizer-terraform-original_vl0ivu.svg" title="Terraform" />
+  [![Skillset](https://skillicons.dev/icons?i=jenkins,prometheus)](https://skillicons.dev)
+  <img height="50" width="50" style="border-radius: 12px; margin: 0 5px;" src="https://res.cloudinary.com/tommello/image/upload/v1687709649/Github/Profile%20Markdown/Jaeger_yvf09y.svg" title="Jaeger" />
+  [![Skillset](https://skillicons.dev/icons?i=kafka,aws)](https://skillicons.dev)
 </div>
+  
+## 🌐 Contato
 
-<h2 align="left">🎯 Current learnings</h2>
-
-<div style="display: flex; align-items: center;">
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1680288069/Github/Profile%20Markdown/nginx_yur3g1.svg" title="NGINX" />
-  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" title="ArgoCD" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1677303240/Github/Profile%20Markdown/Istio_h8uiv2.svg" title="Istio" />
-  <img height="40" width="40" src="https://res.cloudinary.com/tommello/image/upload/v1680283979/Github/Profile%20Markdown/hashicorp-vault_mohwti.svg" title="Vault" />
-  <img height="45" width="45" src="https://res.cloudinary.com/tommello/image/upload/v1680289506/Github/Profile%20Markdown/kubernetes_wtpmdw.svg" title="Kubernetes" />
-  <img height="45" width="45" src="https://res.cloudinary.com/tommello/image/upload/v1677303670/Github/Profile%20Markdown/ansible_tbfxie.svg" title="Ansible" />
-  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" />
-  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680279258/Github/Profile%20Markdown/prometheus_gpt0g4.svg" title="Prometheus" />
-  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680287406/Github/Profile%20Markdown/jaeger_hvldas.svg" title="Jaeger" />
-  <img height="50" width="50" src="https://res.cloudinary.com/tommello/image/upload/v1680287596/Github/Profile%20Markdown/amazon-web-services_zf5zyp.svg" title="Amazon Web Services"/>
-
-<h2 align="left">🌐 Socials</h2>
-<footer style="display: flex; width: 100%; justify-content: center; align-items: center;">
+<footer style="display: flex; column-gap: 5px">
   <a href="mailto:t0malexander@protonmail.com">
     <img height="30" style="border-radius: 6px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
