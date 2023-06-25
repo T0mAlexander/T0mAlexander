@@ -35,11 +35,10 @@
 
 ```
 
-<div style="display: inline-flex; justify-content: space-between; column-gap: 20px; width: 100%">
+<div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&layout=donut&theme=apprentice&locale=pt-BR&langs_count=4)
-
-  ![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T0mAlexander&show_icons=true&theme=apprentice&custom_title=Estatísticas&ring_color=00B4E0&line_height=28&card_width=200)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&layout=donut&theme=apprentice&locale=pt-BR&langs_count=4" />
+ <img src="https://github-readme-stats.vercel.app/api?username=T0mAlexander&show_icons=true&theme=apprentice&custom_title=Estatísticas&ring_color=00B4E0&line_height=28&card_width=200" />
   
 </div>
 
