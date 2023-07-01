@@ -47,6 +47,7 @@
   [![Skillset](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
   <img height="49" width="48" style="margin: 0 5px" src="https://res.cloudinary.com/tommello/image/upload/v1687705710/Github/Profile%20Markdown/iconizer-react_native_uozofa_bx0pjn.svg" title="React Native"/>
   [![Skillset](https://skillicons.dev/icons?i=nextjs,nodejs,ts,postgresql,nginx,golang,docker,kubernetes,linux)](https://skillicons.dev)
+  <img height="49" width="49" style="margin: 0 5px"  src="https://res.cloudinary.com/tommello/image/upload/v1687709304/Github/Profile%20Markdown/iconizer-terraform-original_vl0ivu.svg" title="Terraform" />
 
 <!-- <h2 align="left">🔧 Tools</h2>
 <div style="display: flex; column-gap: 6px">
@@ -70,7 +71,6 @@
   <img height="49" width="49" src="https://res.cloudinary.com/tommello/image/upload/v1687708630/Github/Profile%20Markdown/istio_qewlid.svg" title="Istio" />
   <img height="51" width="50" style="padding: 0 5px" src="https://res.cloudinary.com/tommello/image/upload/v1687708940/Github/Profile%20Markdown/iconizer-hashicorp-vault_mohwti_lysrlm.svg" title="Vault" />
   [![Skillset](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
-  <img height="49" width="49" style="margin: 0 5px"  src="https://res.cloudinary.com/tommello/image/upload/v1687709304/Github/Profile%20Markdown/iconizer-terraform-original_vl0ivu.svg" title="Terraform" />
   [![Skillset](https://skillicons.dev/icons?i=jenkins,prometheus)](https://skillicons.dev)
   <img height="49" width="49" style="margin: 0 5px;" src="https://res.cloudinary.com/tommello/image/upload/v1687734571/Github/Profile%20Markdown/Jaeger-Tracing_vxm0ug.svg" title="Jaeger" />
   [![Skillset](https://skillicons.dev/icons?i=kafka,aws)](https://skillicons.dev)
