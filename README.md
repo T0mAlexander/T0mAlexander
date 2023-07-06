@@ -37,7 +37,7 @@
 
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&layout=donut&theme=apprentice&locale=pt-BR&langs_count=4" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&layout=donut&theme=apprentice&locale=pt-BR&langs_count=5" />
  <img src="https://github-readme-stats.vercel.app/api?username=T0mAlexander&show_icons=true&theme=apprentice&custom_title=Estatísticas&ring_color=00B4E0&line_height=28&card_width=200" />
   
 </div>
