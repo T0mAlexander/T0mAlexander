@@ -163,8 +163,6 @@
           </b>
         </sub>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
         <sub>
