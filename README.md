@@ -271,7 +271,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=T0mAlexander&theme=react&radius=10&custom_title=Contribuições%20de%20Código" />
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&theme=apprentice&locale=pt-BR&hide=html,css,ejs,hcl" />
+  <img align="left" style="margin-top: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0mAlexander&theme=apprentice&locale=pt-BR&hide=html,css,ejs,hcl" />
 
   <img align="center" height="200" src="https://streak-stats.demolab.com?user=T0mAlexander&theme=transparent&date_format=%5BY%20%5DM%20j&mode=weekly&background=262626&ring=069DC2&fire=FFFFAF&currStreakNum=BCBCBC&sideNums=BCBCBC&sideLabels=BCBCBC&dates=BCBCBC&currStreakLabel=069DC2&locale=pt_BR" />
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=T0mAlexander&show_icons=true&theme=apprentice&custom_title=Estatísticas&ring_color=00B4E0&line_height=28&card_width=200" />
