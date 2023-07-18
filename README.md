@@ -19,7 +19,7 @@
           <li>🎧 A música que mais escutei este ano é a <a href="https://www.youtube.com/watch?v=RQ9_TKayu9s"><b>Cleanin' Out My Closet</b></a> do <b>Eminem</b>
           <li>🏎️ Meu esporte favorito é Fórmula 1</li>
           <li>Minha filosofia para inspiração são os <a href="https://senna.com/os-valores-do-ayrton-senna-seguem-vivos-em-cada-um-de-nos/"><b>Valores do Senna</b></a> 
-          <li>📰 Estou começando a partilhar meus conhecimentos no <a href="https://medium.com/"><b>Medium</b></a></li>
+          <li>📰 Às vezes, eu escrevo artigos no <a href="https://medium.com/"><b>Medium</b></a></li>
         </ul>
       </details>
     </li>
