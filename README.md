@@ -232,10 +232,10 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687708630/Github/Profile%20Markdown/istio_qewlid.svg" title="Istio" />
+        <img width="65px" src="./consul.ico" title="Consul" />
         <sub>
           <b>
-            <h3>Istio</h3>
+            <h3>Consul</h3>
           </b>
         </sub>
       </td>
