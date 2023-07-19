@@ -15,6 +15,7 @@
       <details>
         <summary>🕵🏻 Curiosidades</summary>
         <ul>
+          <br>
           <li> ✡️ Eu sou <a href="https://pt.wikipedia.org/wiki/Juda%C3%ADsmo"><b>Judeu</b></a></li>
           <li>🎧 A música que mais escutei este ano é a <a href="https://www.youtube.com/watch?v=RQ9_TKayu9s"><b>Cleanin' Out My Closet</b></a> do <b>Eminem</b>
           <li>🏎️ Meu esporte favorito é Fórmula 1</li>
