@@ -7,9 +7,9 @@
 
   <ul>
     <li>💼 Atualmente estou trabalhando solo numa ONG como voluntário conduzindo um projeto desde o UX/UI até o desenvolvimento da aplicação</li>
-    <li>🌱 Tenho <b>2 anos de experiência</b> como Dev Fullstack, trabalhando em diversos projetos</li>
-    <li>📚 Estou me tornando <a href="https://aws.amazon.com/pt/devops/what-is-devops/"><b>DevOps Engineer</b></a></li>
-    <li>🎓 Estudei através da <b>Udemy</b>, <b>Rocketseat</b> e atualmente na <b>Alura</b></li>
+    <li>🌱 Tenho <b>2 anos de experiência</b> como Dev Fullstack</li>
+    <li>📚 Estou terminando minha formação como <a href="https://aws.amazon.com/pt/devops/what-is-devops/"><b>DevOps Engineer</b></a></li>
+    <li>🎓 Estudo atualmente na <b>Alura</b> mas já estudei na <b>Udemy</b> e <b>Rocketseat</b></li>
     <li> 🇬🇧 Eu falo inglês britânico <i>(oi bruv, can you gimme that <s>bottle of water</s> bo'ohw'o'wo'er?)</i></li>
     <li>
       <details>
