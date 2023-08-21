@@ -190,6 +190,8 @@
           </b>
         </sub>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687709304/Github/Profile%20Markdown/iconizer-terraform-original_vl0ivu.svg" title="Terraform"/>
         <sub>
@@ -211,6 +213,14 @@
         <sub>
           <b>
             <h3>Ansible</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=dynamodb" title="DynamoDB" />
+        <sub>
+          <b>
+            <h3>DynamoDB</h3>
           </b>
         </sub>
       </td>
@@ -276,14 +286,6 @@
         <sub>
           <b>
             <h3>Kafka</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=dynamodb" title="DynamoDB" />
-        <sub>
-          <b>
-            <h3>DynamoDB</h3>
           </b>
         </sub>
       </td>
