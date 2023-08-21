@@ -159,14 +159,6 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=bash" title="Bash"/>
-        <sub>
-          <b>
-            <h3>Bash</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=nginx" title="NGINX"/>
         <sub>
           <b>
