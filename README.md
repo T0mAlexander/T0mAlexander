@@ -182,6 +182,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687706787/Github/Profile%20Markdown/iconizer-argo-icon-color_vcyu6o.svg" title="ArgoCD" />
+        <sub>
+          <b>
+            <h3>ArgoCD</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -225,14 +233,6 @@
 <div>
   <table>
     <tr>
-      <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687706787/Github/Profile%20Markdown/iconizer-argo-icon-color_vcyu6o.svg" title="ArgoCD" />
-        <sub>
-          <b>
-            <h3>ArgoCD</h3>
-          </b>
-        </sub>
-      </td>
       <td align="center">
         <img width="65px" src="./consul.ico" title="Consul" />
         <sub>
