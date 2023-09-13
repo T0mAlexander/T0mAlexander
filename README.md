@@ -224,6 +224,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687708940/Github/Profile%20Markdown/iconizer-hashicorp-vault_mohwti_lysrlm.svg" title="Vault" />
+        <sub>
+          <b>
+            <h3>Vault</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -238,14 +246,6 @@
         <sub>
           <b>
             <h3>Consul</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687708940/Github/Profile%20Markdown/iconizer-hashicorp-vault_mohwti_lysrlm.svg" title="Vault" />
-        <sub>
-          <b>
-            <h3>Vault</h3>
           </b>
         </sub>
       </td>
