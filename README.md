@@ -190,6 +190,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
+        <sub>
+          <b>
+            <h3>Grafana</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -232,6 +240,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
+        <sub>
+          <b>
+            <h3>Prometheus</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -250,26 +266,10 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
-        <sub>
-          <b>
-            <h3>Prometheus</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
         <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687734571/Github/Profile%20Markdown/Jaeger-Tracing_vxm0ug.svg" title="Jaeger" />
         <sub>
           <b>
             <h3>Jaeger</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
-        <sub>
-          <b>
-            <h3>Grafana</h3>
           </b>
         </sub>
       </td>
