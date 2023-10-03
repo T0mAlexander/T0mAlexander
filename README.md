@@ -6,18 +6,17 @@
   </a>
 
   <ul>
-    <li>💼 Atualmente sou líder técnico em um projeto de uma ONG</li>
-    <li>🌱 Tenho <b>2 anos de experiência</b> em desenvolvimento de software</li>
-    <li>📚 Estou terminando minha formação como <a href="https://aws.amazon.com/pt/devops/what-is-devops/"><b>DevOps Engineer</b></a></li>
-    <li>🎓 Estudo atualmente na <b>Alura</b> mas já estudei na <b>Udemy</b> e <b>Rocketseat</b></li>
-    <li> 🇬🇧 Eu falo inglês britânico <i>(oi bruv, can you gimme that <s>bottle of water</s> bo'ohw'o'wo'er?)</i></li>
+    <li>💼 Sou <b>DevOps Engineer</b> e atuo como Tech Lead de um projeto de software</li>
+    <li>🚀 Possuo <b>2 anos de experiência</b> em desenvolvimento de software</li>
+    <li>🎓 Minha educaçao em tecnologia advém da <b>Alura</b>, <b>Udemy</b> e <b>Rocketseat</b></li>
+    <li> 🇬🇧 Eu falo inglês britânico <i>(it's chewsday innit? <s>it's tuesday, isn't it?</s>)</i></li>
     <li>
       <details>
         <summary>🕵🏻 Curiosidades</summary>
         <ul>
           <br>
           <li> ✡️ Eu sou <a href="https://pt.wikipedia.org/wiki/Juda%C3%ADsmo"><b>Judeu</b></a></li>
-          <li>🎧 A música que mais escutei este ano é a <a href="https://www.youtube.com/watch?v=RQ9_TKayu9s"><b>Cleanin' Out My Closet</b></a> do <b>Eminem</b>
+          <li>🎧 A música que mais escutei este ano é a <a href="https://www.youtube.com/watch?v=SsKT0s5J8ko"><b>Self Care</b></a> do <b>Mac Miller</b>
           <li>🏎️ Meu esporte favorito é Fórmula 1</li>
           <li>Minha filosofia para inspiração são os <a href="https://senna.com/os-valores-do-ayrton-senna-seguem-vivos-em-cada-um-de-nos/"><b>Valores do Senna</b></a> 
           <li>📰 Às vezes, eu escrevo artigos no <a href="https://medium.com/"><b>Medium</b></a></li>
