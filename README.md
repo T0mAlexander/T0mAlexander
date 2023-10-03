@@ -15,10 +15,10 @@
         <summary>💡 Curiosidades</summary>
         <ul>
           <br>
-          <li> ✡️ Eu sou <a href="https://pt.wikipedia.org/wiki/Juda%C3%ADsmo"><b>Judeu</b></a></li>
+          <li>✡️ Eu sou <a href="https://pt.wikipedia.org/wiki/Juda%C3%ADsmo"><b>Judeu</b></a></li>
           <li>🎧 A música que mais escutei este ano é a <a href="https://www.youtube.com/watch?v=SsKT0s5J8ko"><b>Self Care</b></a> do <b>Mac Miller</b>
           <li>🏎️ Meu esporte favorito é Fórmula 1</li>
-          <li>Minha filosofia para inspiração são os <a href="https://senna.com/os-valores-do-ayrton-senna-seguem-vivos-em-cada-um-de-nos/"><b>Valores do Senna</b></a> 
+          <li>🌟 Minha filosofia para inspiração são os <a href="https://senna.com/os-valores-do-ayrton-senna-seguem-vivos-em-cada-um-de-nos/"><b>Valores do Senna</b></a> 
           <li>📰 Às vezes, eu escrevo artigos no <a href="https://medium.com/"><b>Medium</b></a></li>
         </ul>
       </details>
