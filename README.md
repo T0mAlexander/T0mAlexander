@@ -12,7 +12,7 @@
     <li> 🇬🇧 Eu falo inglês britânico <i>(it's chewsday innit? <s>it's tuesday, isn't it?</s>)</i></li>
     <li>
       <details>
-        <summary>🕵🏻 Curiosidades</summary>
+        <summary>💡 Curiosidades</summary>
         <ul>
           <br>
           <li> ✡️ Eu sou <a href="https://pt.wikipedia.org/wiki/Juda%C3%ADsmo"><b>Judeu</b></a></li>
