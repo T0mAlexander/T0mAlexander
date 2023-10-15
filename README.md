@@ -247,6 +247,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=aws" title="AWS" />
+        <sub>
+          <b>
+            <h3>AWS</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -277,14 +285,6 @@
         <sub>
           <b>
             <h3>Kafka</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=aws" title="AWS" />
-        <sub>
-          <b>
-            <h3>AWS</h3>
           </b>
         </sub>
       </td>
