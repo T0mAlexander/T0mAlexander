@@ -6,7 +6,7 @@
   </a>
 
   <ul>
-    <li>💼 Sou <b>DevOps Engineer</b> e Tech Lead de um projeto de software</li>
+    <li>💼 Sou <b>DevOps Engineer</b> na Apsis Informática</li>
     <li>🚀 Possuo <b>2 anos de experiência</b> em desenvolvimento de software</li>
     <li>🎓 Minha educaçao em tecnologia advém da <b>Alura</b>, <b>Udemy</b> e <b>Rocketseat</b></li>
     <li> 🇬🇧 Eu falo inglês britânico <i>(it's chewsday innit? <s>it's tuesday, isn't it?</s>)</i></li>
