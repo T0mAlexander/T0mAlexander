@@ -36,8 +36,8 @@
   <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Visitantes" />
 </div>
 
-## 🧠 Habilidades e ferramentas
-
+## 🧠 Habilidades
+<!---
 <div>
   <table>
     <caption>
@@ -144,10 +144,8 @@
       </td>
     </tr>
   </table>
+-->
   <table>
-    <caption>
-      <h3>DevOps & Infraestrutura</h3>
-    </caption>
     <tr>
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=linux" title="Linux"/>
@@ -197,6 +195,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://javydekoning.com/img/featured/traefik-1.svg" title="Traefik" />
+        <sub>
+          <b>
+            <h3>Traefik</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -220,14 +226,6 @@
         <sub>
           <b>
             <h3>Ansible</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=dynamodb" title="DynamoDB" />
-        <sub>
-          <b>
-            <h3>DynamoDB</h3>
           </b>
         </sub>
       </td>
