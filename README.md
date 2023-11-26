@@ -37,13 +37,13 @@
 </div>
 
 ## 🧠 Habilidades
-<!---
 <div>
   <table>
     <caption>
-      <h3>Front-end & Back-end</h3>
+      <h3>Programação</h3>
     </caption>
     <tr>
+      <!---
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" width="65px"/>
         <sub>
@@ -68,6 +68,15 @@
           </b>
         </sub>
       </td>
+      -->
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=golang" title="Golang"/>
+        <sub>
+          <b>
+            <h3>Golang</h3>
+          </b>
+        </sub>
+      </td>
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=ts" title="Typescript"/>
         <sub>
@@ -76,6 +85,7 @@
           </b>
         </sub>
       </td>
+      <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=styledcomponents" title="Styled Components"/>
         <sub>
@@ -84,6 +94,7 @@
           </b>
         </sub>
       </td>
+      --->
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
         <sub>
@@ -92,21 +103,11 @@
           </b>
         </sub>
       </td>
-      </tr>
-      <tr>
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=nestjs" title="Nest.js"/>
         <sub>
           <b>
             <h3>Nest.js</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=golang" title="Golang"/>
-        <sub>
-          <b>
-            <h3>Golang</h3>
           </b>
         </sub>
       </td>
@@ -118,6 +119,7 @@
           </b>
         </sub>
       </td>
+      <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=jest" title="Jest"/>
         <sub>
@@ -126,6 +128,7 @@
           </b>
         </sub>
       </td>
+      --->
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
         <sub>
@@ -134,6 +137,7 @@
           </b>
         </sub>
       </td>
+    <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=figma" title="Figma"/>
         <sub>
@@ -142,10 +146,13 @@
           </b>
         </sub>
       </td>
+    --->
     </tr>
   </table>
--->
   <table>
+    <caption>
+      <h3>Infraestrutura & Operações</h3>
+    </caption>
     <tr>
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=linux" title="Linux"/>
@@ -279,10 +286,10 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=kafka" title="Kafka" />
+        <img width="65px" style="border-radius: 10px" src="https://res.cloudinary.com/tommello/image/upload/v1701033093/Github/Profile%20Markdown/ota2s7usexyylg4ewhbu.svg" title="Apache Pulsar" />
         <sub>
           <b>
-            <h3>Kafka</h3>
+            <h3>Pulsar</h3>
           </b>
         </sub>
       </td>
