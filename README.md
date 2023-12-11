@@ -113,6 +113,7 @@
           </b>
         </sub>
       </td>
+      <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=prisma" title="Prisma"/>
         <sub>
@@ -121,7 +122,6 @@
           </b>
         </sub>
       </td>
-      <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=jest" title="Jest"/>
         <sub>
@@ -130,7 +130,6 @@
           </b>
         </sub>
       </td>
-      --->
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
         <sub>
@@ -139,7 +138,6 @@
           </b>
         </sub>
       </td>
-    <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=figma" title="Figma"/>
         <sub>
