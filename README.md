@@ -113,6 +113,22 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=java" title="Java" />
+        <sub>
+          <b>
+            <h3>Java</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=gradle" title="Gradle" />
+        <sub>
+          <b>
+            <h3>Gradle</h3>
+          </b>
+        </sub>
+      </td>
       <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=prisma" title="Prisma"/>
@@ -195,18 +211,18 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
+        <img width="65px" src="https://raw.githubusercontent.com/T0mAlexander/T0mAlexander/main/loki.png" title="Grafana Loki" />
         <sub>
           <b>
-            <h3>Grafana</h3>
+            <h3>Loki</h3>
           </b>
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://javydekoning.com/img/featured/traefik-1.svg" title="Traefik" />
+        <img width="65px" src="https://skillicons.dev/icons?i=grafana" title="Grafana" />
         <sub>
           <b>
-            <h3>Traefik</h3>
+            <h3>Grafana</h3>
           </b>
         </sub>
       </td>
@@ -260,6 +276,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="70px" src="./grafana-tempo.png" title="Grafana Tempo" />
+        <sub>
+          <b>
+            <h3>Tempo</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -270,18 +294,18 @@
   <table>
     <tr>
       <td align="center">
-        <img width="65px" src="./consul.ico" title="Consul" />
+        <img width="65px" src="./open-telemetry.png" title="OpenTelemetry" />
         <sub>
           <b>
-            <h3>Consul</h3>
+            <h3>OpenTelemetry</h3>
           </b>
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687734571/Github/Profile%20Markdown/Jaeger-Tracing_vxm0ug.svg" title="Jaeger" />
+        <img width="65px" src="./consul.svg" title="Consul" />
         <sub>
           <b>
-            <h3>Jaeger</h3>
+            <h3>Consul</h3>
           </b>
         </sub>
       </td>
@@ -290,6 +314,22 @@
         <sub>
           <b>
             <h3>Pulsar</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=azure" title="Azure" />
+        <sub>
+          <b>
+            <h3>Azure</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=haskell" title="Haskell" />
+        <sub>
+          <b>
+            <h3>Haskell</h3>
           </b>
         </sub>
       </td>
