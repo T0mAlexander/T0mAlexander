@@ -105,23 +105,6 @@
           </b>
         </sub>
       </td>
-      <tr>
-        <td align="center">
-          <img width="65px" src="https://skillicons.dev/icons?i=java" title="Java" />
-          <sub>
-            <b>
-              <h3>Java</h3>
-            </b>
-          </sub>
-        </td>
-        <td align="center">
-          <img width="65px" src="https://skillicons.dev/icons?i=gradle" title="Gradle" />
-          <sub>
-            <b>
-              <h3>Gradle</h3>
-            </b>
-          </sub>
-        </td>
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=nestjs" title="Nest.js"/>
         <sub>
@@ -130,7 +113,6 @@
           </b>
         </sub>
       </td>
-      </tr>
       <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=prisma" title="Prisma"/>
