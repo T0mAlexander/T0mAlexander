@@ -38,7 +38,6 @@
   <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Visitantes" />
 </div>
 
-## 🧠 Habilidades
 <div>
   <table>
     <caption>
