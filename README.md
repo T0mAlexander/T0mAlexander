@@ -6,7 +6,7 @@
   </a>
 
   <ul>
-    <li>💼 Sou <b>DevOps Engineer</b> na Saúde Agora & Apsis</li>
+    <li>💼 Sou <b>DevOps Engineer</b> na <a href="https://www.linkedin.com/company/appsaudeagora/">Saúde Agora</a> & <a href="https://www.linkedin.com/company/apsis-info">Apsis Tecnologia</a></li>
     <li>⏳ Possuo <b>3 anos de experiência</b> na indústria de software</li>
     <li>🎓 Minha educaçao em tecnologia advém da <b>Alura</b>, <b>Udemy</b> e <b>Rocketseat</b></li>
     <!--
