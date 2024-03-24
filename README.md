@@ -209,6 +209,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687734534/Jaeger-Tracing_k5lxce.svg" title="Jaeger" />
+        <sub>
+          <b>
+            <h3>Jaeger</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -267,6 +275,14 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="./open-telemetry.png" title="OpenTelemetry" />
+        <sub>
+          <b>
+            <h3>OpenTelemetry</h3>
+          </b>
+        </sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -276,22 +292,6 @@
 <div>
   <table>
     <tr>
-      <td align="center">
-        <img width="65px" src="./open-telemetry.png" title="OpenTelemetry" />
-        <sub>
-          <b>
-            <h3>OpenTelemetry</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687734534/Jaeger-Tracing_k5lxce.svg" title="Jaeger" />
-        <sub>
-          <b>
-            <h3>Jaeger</h3>
-          </b>
-        </sub>
-      </td>
       <td align="center">
         <img width="65px" src="./consul.svg" title="Consul" />
         <sub>
