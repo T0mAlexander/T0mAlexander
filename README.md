@@ -268,10 +268,10 @@
         </sub>
       </td>
       <td align="center">
-        <img width="70px" src="./grafana-tempo.png" title="Grafana Tempo" />
+        <img width="65px" src="https://skillicons.dev/icons?i=azure" title="Azure" />
         <sub>
           <b>
-            <h3>Tempo</h3>
+            <h3>Azure</h3>
           </b>
         </sub>
       </td>
@@ -305,14 +305,6 @@
         <sub>
           <b>
             <h3>Pulsar</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=azure" title="Azure" />
-        <sub>
-          <b>
-            <h3>Azure</h3>
           </b>
         </sub>
       </td>
