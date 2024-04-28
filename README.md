@@ -28,6 +28,7 @@
   </ul>
 </div>
 
+<!--
 <div align="left">
   <a href="mailto:t0malexander@protonmail.com">
     <img height="30" style="border-radius: 6px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -37,6 +38,7 @@
   </a>
   <img height="30" style="border-radius: 6px" src="https://komarev.com/ghpvc/?username=T0mAlexander&style=for-the-badge&color=brightgreen&label=Visitantes" />
 </div>
+-->
 
 <div>
   <table>
