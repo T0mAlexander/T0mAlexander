@@ -278,7 +278,8 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="./open-telemetry.png" title="OpenTelemetry" />
+        <img width="65px" src="./open-telemetry.png" title="OpenTele![quarkus](https://github.com/T0mAlexander/T0mAlexander/assets/84048957/533299dd-3b01-4d3a-b47a-4a55ae5d6e4a)
+metry" />
         <sub>
           <b>
             <h3>OpenTelemetry</h3>
@@ -294,6 +295,22 @@
 <div>
   <table>
     <tr>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=java" title="Java" />
+        <sub>
+          <b>
+            <h3>Java</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="./quarkus.png" title="Quarkus" />
+        <sub>
+          <b>
+            <h3>Quarkus</h3>
+          </b>
+        </sub>
+      </td>
       <td align="center">
         <img width="65px" src="./consul.svg" title="Consul" />
         <sub>
