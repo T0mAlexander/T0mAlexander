@@ -304,7 +304,7 @@ metry" />
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="./quarkus.png" title="Quarkus" />
+        <img width="65px" src="./quarkus-white.png" title="Quarkus" />
         <sub>
           <b>
             <h3>Quarkus</h3>
