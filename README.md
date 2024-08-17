@@ -212,10 +212,11 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687734534/Jaeger-Tracing_k5lxce.svg" title="Jaeger" />
+        <img width="65px" src="./open-telemetry.png" title="OpenTele![quarkus](https://github.com/T0mAlexander/T0mAlexander/assets/84048957/533299dd-3b01-4d3a-b47a-4a55ae5d6e4a)
+metry" />
         <sub>
           <b>
-            <h3>Jaeger</h3>
+            <h3>OTel</h3>
           </b>
         </sub>
       </td>
@@ -278,11 +279,10 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="./open-telemetry.png" title="OpenTele![quarkus](https://github.com/T0mAlexander/T0mAlexander/assets/84048957/533299dd-3b01-4d3a-b47a-4a55ae5d6e4a)
-metry" />
+        <img width="65px" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" />
         <sub>
           <b>
-            <h3>OpenTelemetry</h3>
+            <h3>GCP</h3>
           </b>
         </sub>
       </td>
