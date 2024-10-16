@@ -154,6 +154,8 @@
     </tr>
   </table>
   <table>
+    <br>
+    <br>
     <caption>
       <h3>Infraestrutura & Operações</h3>
     </caption>
