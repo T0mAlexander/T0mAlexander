@@ -287,7 +287,7 @@ metry" />
         </sub>
       </td>
       <td align="center">
-        <img width="60x" src="./digital-ocean.svg" title="DigitalOcean" />
+        <img width="55px" src="./digital-ocean.svg" title="DigitalOcean" />
         <sub>
           <b>
             <h3>DigitalOcean</h3>
