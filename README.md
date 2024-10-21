@@ -109,6 +109,7 @@
           </b>
         </sub>
       </td>
+      <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=nestjs" title="Nest.js"/>
         <sub>
@@ -117,7 +118,6 @@
           </b>
         </sub>
       </td>
-      <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=prisma" title="Prisma"/>
         <sub>
