@@ -303,7 +303,7 @@ metry" />
   </table>
 </div>
 
-## 🎯 Aprendizados e interesses
+## 🎯 Interesses
 
 <div>
   <table>
