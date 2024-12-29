@@ -49,6 +49,22 @@
       <h3>Programação</h3>
     </caption>
     <tr>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=java" title="Java" />
+        <sub>
+          <b>
+            <h3>Java</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="./quarkus-white.png" title="Quarkus" />
+        <sub>
+          <b>
+            <h3>Quarkus</h3>
+          </b>
+        </sub>
+      </td>
       <!---
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" width="65px"/>
@@ -75,22 +91,6 @@
         </sub>
       </td>
       -->
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=golang" title="Golang"/>
-        <sub>
-          <b>
-            <h3>Golang</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=ts" title="Typescript"/>
-        <sub>
-          <b>
-            <h3>Typescript</h3>
-          </b>
-        </sub>
-      </td>
       <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=styledcomponents" title="Styled Components"/>
@@ -101,14 +101,6 @@
         </sub>
       </td>
       --->
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
-        <sub>
-          <b>
-            <h3>Node.js</h3>
-          </b>
-        </sub>
-      </td>
       <!---
       <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=nestjs" title="Nest.js"/>
@@ -308,22 +300,6 @@ metry" />
 <div>
   <table>
     <tr>
-      <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=java" title="Java" />
-        <sub>
-          <b>
-            <h3>Java</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="./quarkus-white.png" title="Quarkus" />
-        <sub>
-          <b>
-            <h3>Quarkus</h3>
-          </b>
-        </sub>
-      </td>
       <td align="center">
         <img width="65px" src="./consul.svg" title="Consul" />
         <sub>
