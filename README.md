@@ -332,9 +332,5 @@ metry" />
 ## 📊 Estatísticas e atividade
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=T0mAlexander&show_icons=true&theme=apprentice&custom_title=Estatísticas&ring_color=00B4E0&line_height=28&card_width=200" />
-  <br> -->
-  <img src="https://streak-stats.demolab.com?user=T0mAlexander&theme=transparent&date_format=%5BY%20%5DM%20j&mode=weekly&background=262626&ring=069DC2&fire=FFFFAF&currStreakNum=BCBCBC&sideNums=BCBCBC&sideLabels=BCBCBC&dates=BCBCBC&currStreakLabel=069DC2&locale=pt_BR" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomAlexander&layout=compact&custom_title=Tempo%20de%20C%C3%B3digo&theme=apprentice&hide=yaml,other" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomAlexander&layout=compact&custom_title=Tempo%20de%20C%C3%B3digo&theme=apprentice&hide=yaml,other,ini,batchfile,cheetah,text,prisma,jinja2,go,markdown,kotlin,properties,java%20properties,nginx%20configuration%20file,config,git%20config,hcl,git,shell%20script" />
 </div>
