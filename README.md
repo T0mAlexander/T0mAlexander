@@ -7,7 +7,7 @@
 
   <ul>
     <li>💼 Sou <b>DevOps</b>, <b>SRE</b> e <b>Cloud Engineer</b> </li>
-    <li>⏳ Possuo <b>2 anos de experiência</b> como DevOps, SRE e Cloud Engineer</li>
+    <li>⏳ Possuo <b>2 anos de experiência</b> como DevOps, SRE e Cloud Engineer e 5 anos na indústria de software</li>
     <li>🎓 Minha educaçao em tecnologia advém da <b>Alura</b>, <b>Udemy</b>, <b>Rocketseat</b> e <b>Cod3r</b></li>
     <!--
     <li> 🇬🇧 Eu falo inglês britânico <i>(it's chewsday innit? <s>it's tuesday, isn't it?</s>)</i></li>
