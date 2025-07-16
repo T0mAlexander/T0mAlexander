@@ -209,11 +209,18 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="./open-telemetry.png" title="OpenTele![quarkus](https://github.com/T0mAlexander/T0mAlexander/assets/84048957/533299dd-3b01-4d3a-b47a-4a55ae5d6e4a)
-metry" />
+        <img width="65px" src="./open-telemetry.png" title="OpenTelemetry" />
         <sub>
           <b>
             <h3>OTel</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="./airbyte.jpg" title="Airbyte" />
+        <sub>
+          <b>
+            <h3>Airbyte</h3>
           </b>
         </sub>
       </td>
