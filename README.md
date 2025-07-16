@@ -65,6 +65,22 @@
           </b>
         </sub>
       </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=gradle" title="Gradle" />
+        <sub>
+          <b>
+            <h3>Gradle</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=postgres" title="Postgres" />
+        <sub>
+          <b>
+            <h3>Postgres</h3>
+          </b>
+        </sub>
+      </td>
       <!---
       <td align="center">
         <img src="https://skillicons.dev/icons?i=react" width="65px"/>
