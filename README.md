@@ -308,10 +308,18 @@
   <table>
     <tr>
       <td align="center">
-        <img width="65px" src="./consul.svg" title="Consul" />
+        <img width="65px" src="https://skillicons.dev/icons?i=vue" title="Vue.js" />
         <sub>
           <b>
-            <h3>Consul</h3>
+            <h3>Vue.js</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
+        <img width="65px" src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt" />
+        <sub>
+          <b>
+            <h3>Nuxt</h3>
           </b>
         </sub>
       </td>
@@ -324,10 +332,10 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://skillicons.dev/icons?i=haskell" title="Haskell" />
+        <img width="65px" src="./consul.svg" title="Consul" />
         <sub>
           <b>
-            <h3>Haskell</h3>
+            <h3>Consul</h3>
           </b>
         </sub>
       </td>
