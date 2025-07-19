@@ -74,6 +74,14 @@
         </sub>
       </td>
       <td align="center">
+        <img width="65px" src="./liquibase.png" title="Liquibase" />
+        <sub>
+          <b>
+            <h3>Liquibase</h3>
+          </b>
+        </sub>
+      </td>
+      <td align="center">
         <img width="65px" src="https://skillicons.dev/icons?i=postgres" title="Postgres" />
         <sub>
           <b>
