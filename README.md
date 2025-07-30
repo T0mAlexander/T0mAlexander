@@ -47,7 +47,7 @@
   <br>
   <table>
     <caption>
-      <h3>Programação</h3>
+      <h3>🧑🏻‍💻 Programação</h3>
     </caption>
     <tr>
       <td align="center">
@@ -174,7 +174,7 @@
     <br>
     <br>
     <caption>
-      <h3>Infraestrutura & Operações</h3>
+      <h3>🏗️ Infraestrutura & Operações</h3>
     </caption>
     <tr>
       <td align="center">
