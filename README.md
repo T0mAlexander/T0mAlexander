@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 Sobre mim
+## 👋🏻 Sobre mim
 
 <div style="display: flex;">
   <a href="https://open.spotify.com/user/wintonmello5?si=b23086650e3b40a8">
