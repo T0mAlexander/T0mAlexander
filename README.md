@@ -348,22 +348,6 @@
           </b>
         </sub>
       </td>
-      <td align="center">
-        <img width="65px" style="border-radius: 10px" src="https://res.cloudinary.com/tommello/image/upload/v1701033093/Github/Profile%20Markdown/ota2s7usexyylg4ewhbu.svg" title="Apache Pulsar" />
-        <sub>
-          <b>
-            <h3>Pulsar</h3>
-          </b>
-        </sub>
-      </td>
-      <td align="center">
-        <img width="65px" src="./consul.svg" title="Consul" />
-        <sub>
-          <b>
-            <h3>Consul</h3>
-          </b>
-        </sub>
-      </td>
     </tr>
   </table>
 </div>
