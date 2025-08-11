@@ -9,7 +9,7 @@
     <li>💼 Sou <b>Cloud</b> e <b>Back-End Engineer</b> </li>
     <li>⏳ Possuo <b>2 anos de experiência</b> como DevOps, SRE e Cloud Engineer e 5 anos na indústria de software</li>
     <li>🎓 Minha educaçao em tecnologia advém da <b>Alura</b>, <b>Udemy</b>, <b>Rocketseat</b> e <b>Cod3r</b></li>
-    <li>🎮 Casualmente jogo <b>Rainbow Six Siege</b>, <b>FIFA 25</b>, <b>Forza Motorsport</b> e <b>Poker</b></li>
+    <li>🎮 Casualmente jogo <b>Rainbow Six Siege</b>, <b>FIFA 25</b> e <b>Poker</b></li>
     <!--
     <li> 🇬🇧 Eu falo inglês britânico <i>(it's chewsday innit? <s>it's tuesday, isn't it?</s>)</i></li>
     <li>
