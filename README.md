@@ -275,7 +275,7 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687708940/Github/Profile%20Markdown/iconizer-hashicorp-vault_mohwti_lysrlm.svg" title="Vault" />
+        <img width="65px" src="https://owenfarrell.gallerycdn.vsassets.io/extensions/owenfarrell/vscode-vault/2.3.1668612735/1668612758561/Microsoft.VisualStudio.Services.Icons.Default" title="Vault" />
         <sub>
           <b>
             <h3>Vault</h3>
