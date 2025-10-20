@@ -251,7 +251,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687709304/Github/Profile%20Markdown/iconizer-terraform-original_vl0ivu.svg" title="Terraform"/>
+        <img width="65px" src="https://downloads.marketplace.jetbrains.com/files/22300/877536/icon/default.png" title="Terraform"/>
         <sub>
           <b>
             <h3>Terraform</h3>
