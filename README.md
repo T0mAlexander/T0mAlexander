@@ -355,5 +355,5 @@
 ## 📊 Estatísticas e atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomAlexander&layout=compact&custom_title=Tempo%20de%20C%C3%B3digo&theme=apprentice&hide=yaml,other,ini,batchfile,cheetah,text,prisma,jinja2,javascript,go,markdown,kotlin,properties,java%20properties,nginx%20configuration%20file,config,git%20config,hcl,git,shell%20script,terraform,gradle,textmate,gitignore%20file,gdsl,docker%20file,public%20key" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomAlexander&layout=compact&custom_title=Tempo%20de%20C%C3%B3digo&theme=apprentice&hide=yaml,other,ini,batchfile,cheetah,text,python,prisma,jinja2,javascript,go,markdown,kotlin,properties,java%20properties,nginx%20configuration%20file,config,git%20config,hcl,git,shell%20script,terraform,gradle,textmate,gitignore%20file,gdsl,docker%20file,public%20key" />
 </div>
