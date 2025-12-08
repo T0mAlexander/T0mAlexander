@@ -209,7 +209,7 @@
         </sub>
       </td>
       <td align="center">
-        <img width="65px" src="https://res.cloudinary.com/tommello/image/upload/v1687706787/Github/Profile%20Markdown/iconizer-argo-icon-color_vcyu6o.svg" title="ArgoCD" />
+        <img width="65px" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" title="ArgoCD" />
         <sub>
           <b>
             <h3>ArgoCD</h3>
@@ -251,7 +251,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img width="65px" src="https://downloads.marketplace.jetbrains.com/files/22300/877536/icon/default.png" title="Terraform"/>
+        <img width="65px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/terraform-icon-zp95oytvn5ci8lsub9sbeh.png/terraform-icon-tew8r4clf5ocvoyj0o05j.png?_a=DATAg1AAZAA0" title="Terraform"/>
         <sub>
           <b>
             <h3>Terraform</h3>
